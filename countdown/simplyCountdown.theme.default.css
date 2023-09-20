@@ -1,4 +1,4 @@
-/* .simply-countdown {
+.simply-countdown {
   overflow: hidden;
   display: table;
   font-family: "Arial", sans-serif;
@@ -26,4 +26,4 @@
 
 .simply-countdown > .simply-section .simply-amount {
   font-size: 1.4rem;
-} */
+}
